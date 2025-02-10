@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hello World! I'm Mike! 👋
+
+🧑‍🔬Software Developer | Open Source Contributor  
+🌱 I am Currently Learning how to optimize my GitHub Profile!
+
+## 🛠️ Tech Stack  
+- 💻 Languages: Python, JavaScript
+- ☁️ Cloud: AWS
+
+## 📫 Connect with me!  
+[![GitHub](https://badgen.net/badge/GitHub/RedParrotBerkeley/:color/?icon=github)](https://github.com/RedParrotBerkeley)
+
+> ### 📌 Featured Projects
+>> 1. [Cool Project](https://github.com/RedParrotBerkeley/Emotion-Detection-Application) - This is the coolest project ever!
 
 <!--
 **RedParrotBerkeley/RedParrotBerkeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
