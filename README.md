@@ -1,11 +1,9 @@
-# 👋 Hi, I'm [Your Name]!
-
 ## 🚀 About Me
-I am a [Your Profession/Role] with experience in [mention key expertise]. Passionate about [your interests, e.g., open-source, AI, cybersecurity]. 
+I am a Cyber Security Analyst with experience in Automobile Security. Passionate about Artificial Intelligence. 
 
-- 🌱 Currently learning: [List any new skills or technologies]
-- 👯 Looking to collaborate on: [Mention projects or topics of interest]
-- 💬 Ask me about: [Topics you specialize in]
+- 🌱 Currently learning: Google Vision AI
+- 👯 Looking to collaborate on: Fitness Applications utilizing AI
+- 💬 Ask me about: Macro Analyzer for nutrition
 
 ---
 
